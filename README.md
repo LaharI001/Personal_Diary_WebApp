@@ -9,7 +9,7 @@ My attempt at making a decent interactive diary.
 **Note**:- This WebApp is only for laptop users. We are trying to make this fesible for Android users also. 
 
 ### App is live at
-1. Deploy on GitHub - https://prashant280920.github.io/Personal_Diary_WebApp/
+1. Deploy on GitHub - https://github.com/LaharI001/Personal_Diary_WebApp/
 
 ### Hosted 
 * [Heroku](https://www.heroku.com/)
